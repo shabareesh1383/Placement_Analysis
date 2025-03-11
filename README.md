@@ -1,4 +1,3 @@
-# Placement_Analysis
 # Data Analysis on Placement Data  
 
 ## Project Overview  
@@ -47,7 +46,9 @@ The dataset contains various attributes related to students such as academic per
 - matplotlib  
 - seaborn  
 - numpy  
-
+To install dependencies run  
+```bash
+pip install pandas numpy matplotlib seaborn
 ##STEPS TO EXECUTE
 
 1. CLONE or DOWNLOAD code from the link : https://github.com/shabareesh1383/Placement_Analysis
